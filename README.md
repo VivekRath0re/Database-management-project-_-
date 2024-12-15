@@ -33,3 +33,5 @@ This project aims to provide insights into the music store's operations by answe
    We determine the most popular genre as the genre with the highest amount of purchases. Write a query that returns each country along with the top genre. For countries where the maximum number of purchases is shared, return all genres.
 3. **Top customer in each country:**  
    Write a query that determines the customer who has spent the most on music for each country. Return the country along with the top customer and the amount they spent. For countries where the top amount spent is shared, provide all customers with the top amount.
+
+# By Vivek Rathore
